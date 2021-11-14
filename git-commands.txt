@@ -1,0 +1,3 @@
+git status --> it will give the details about the repository
+
+git intialize --> it will initialize the folder 
